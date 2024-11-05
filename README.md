@@ -22,6 +22,10 @@ Welcome to my GitHub profile! I'm a passionate software developer and AI/ML enth
 - **AI/ML Intern** at Quick IsCool and E-Brahma Technologies.
 - **Web Developer** for online magazines 'Ode to Death' and 'Whippersnapper'.
 
+## 🎖️ Achievements & Badges
+
+[![Holopin Badge](https://holopin.me/bavi404)](https://holopin.io/@bavi404)
+
 ## 🚀 My Dream
 
 I aspire to make a meaningful impact in the world through technology, whether it's through innovative software solutions, contributing to open-source, or helping disabled people with tech. One of my ultimate dreams is to be in a rock band, with musical inspiration from DAY6.
