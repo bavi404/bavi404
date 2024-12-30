@@ -11,8 +11,6 @@ Welcome to my GitHub profile! I'm a passionate software developer and AI/ML enth
 
 ## 🔭 Current Projects
 
-- **Dashboard Genie**: An AI-powered dynamic dashboard generator.
-- **ConsumeWise**: A Smart Label Reader project providing transparency on nutritional information and ingredient safety for consumers.
 - **Study Teddy**: A productivity app aimed at helping students manage their time and tasks more efficiently.
 - **Fangs Over Felt**: A mobile game that combines elements of strategy and action, set in a fantastical world where players navigate challenges and battles, blending traditional board game mechanics with immersive gameplay.
 
