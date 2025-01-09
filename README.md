@@ -9,6 +9,22 @@ Welcome to my GitHub profile! I'm a passionate software developer and AI/ML enth
 - 💻 I'm currently working on several projects, including an AI-powered personal finance assistant and a productivity app called Study Teddy.
 - 🏆 I've won multiple awards for writing and poetry, and I'm also involved in creative projects like short films and open-source contributions.
 
+- 🛠️ Skills and Expertise
+Programming Languages
+Python, Java, C++, JavaScript, TypeScript, Rust, Go, Kotlin, SQL, Swift
+AI/ML & Data Science
+TensorFlow, PyTorch, OpenCV, Scikit-Learn, YOLOv8, Pandas, NumPy
+ANN, CNN, GAN, NLP, Computer Vision, Feature Engineering
+Web & App Development
+Frontend: React, Next.js, Tailwind CSS
+Backend: Flask, FastAPI, Django, Node.js
+Mobile: Android (Kotlin), iOS (Swift)
+Cloud and DevOps
+AWS, Google Cloud, Docker, Kubernetes, Terraform
+Tools and Platforms
+Git, Postman, Jupyter Notebooks, Figma, MATLAB
+
+
 ## 🔭 Current Projects
 
 - **Study Teddy**: A productivity app aimed at helping students manage their time and tasks more efficiently.
@@ -23,6 +39,7 @@ Welcome to my GitHub profile! I'm a passionate software developer and AI/ML enth
 ## 🎖️ Achievements & Badges
 
 [![Holopin Badge](https://holopin.me/bavi404)](https://holopin.io/@bavi404)
+Lady Ada Programming Contest Finalist (2024): Celebrating women in tech!
 
 ## 🚀 My Dream
 
