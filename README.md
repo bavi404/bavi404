@@ -33,17 +33,7 @@ Welcome to my GitHub profile! I'm a passionate software developer and AI/ML enth
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </p>
 
-
-## 🔭 Current Projects
-
-- **Study Teddy**: A productivity app aimed at helping students manage their time and tasks more efficiently.
-- **Fangs Over Felt**: A mobile game that combines elements of strategy and action, set in a fantastical world where players navigate challenges and battles, blending traditional board game mechanics with immersive gameplay.
-
-## 💼 Professional Experience
-
-- **Software Development Engineering Intern** at Bluestock Fintech.
-- **AI/ML Intern** at Quick IsCool and E-Brahma Technologies.
-- **Web Developer** for online magazines 'Ode to Death' and 'Whippersnapper'.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
 
 ## 🎖️ Achievements & Badges
 
