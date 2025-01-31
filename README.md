@@ -9,6 +9,8 @@ Welcome to my GitHub profile! I'm a passionate software developer and AI/ML enth
 - 💻 I'm currently working on several projects, including an AI-powered personal finance assistant and a productivity app called Study Teddy.
 - 🏆 I've won multiple awards for writing and poetry, and I'm also involved in creative projects like short films and open-source contributions.
 
+- ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/bavi404&count_bg=%2356B4F3&title_bg=%232D2D2D&icon=github.svg&icon_color=%23E7E7E7&title=Profile+views&edge_flat=false)
+
 - 🛠️ Skills and Expertise
 Programming Languages
 Python, Java, C++, JavaScript, TypeScript, Rust, Go, Kotlin, SQL, Swift
