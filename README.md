@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm a passionate software developer and AI/ML enth
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bavi404&layout=compact&theme=radical)
 
 ## 🎖️ Achievements & Badges
 
