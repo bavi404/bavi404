@@ -44,7 +44,12 @@ Lady Ada Programming Contest Finalist (2024): Celebrating women in tech!
 
 I aspire to make a meaningful impact in the world through technology, whether it's through innovative software solutions, contributing to open-source, or helping disabled people with tech. One of my ultimate dreams is to be in a rock band, with musical inspiration from DAY6.
 
-## 📫 How to Reach Me
+## Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bavishya-sankaranarayanan-515400275/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bavi404notfound)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/bavi404)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/bavi404)
+
 
 - 📧 Email: sankaranarayananbavishya@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/bavishya-sankaranarayanan-515400275/overlay/background-image/
