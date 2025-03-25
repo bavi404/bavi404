@@ -37,7 +37,9 @@ Welcome to my GitHub profile! I'm a passionate software developer and AI/ML enth
 
 ## 🎖️ Achievements & Badges
 
-[![Holopin Badge](https://holopin.me/bavi404)](https://holopin.io/@bavi404)
+## 🧩 My Holopin Badges
+
+[![Holopin board](https://holopin.io/api/user/bavi404/badges)](https://holopin.io/@bavi404)
 Lady Ada Programming Contest Finalist (2024): Celebrating women in tech!
 
 ## 🚀 My Dream
