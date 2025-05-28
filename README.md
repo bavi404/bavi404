@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate software developer and AI/ML enth
 
 ## 🌱 About Me
 
-- 🎓 I'm currently in my 4th year of college, pursuing a degree in Computer Science.
+- 🎓 I'm currently in college, pursuing a degree in Computer Science.
 - 🔍 My areas of interest include AI, Machine Learning, Cloud Computing, and Full Stack Development.
 - 💻 I'm currently working on several projects, including an AI-powered personal finance assistant and a productivity app called Study Teddy.
 - 🏆 I've won multiple awards for writing and poetry, and I'm also involved in creative projects like short films and open-source contributions.
