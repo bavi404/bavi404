@@ -45,7 +45,7 @@ Lady Ada Programming Contest Finalist (2024): Celebrating women in tech!
 
 ## 🚀 My Dream
 
-I aspire to make a meaningful impact in the world through technology, whether it's through innovative software solutions, contributing to open-source, or helping disabled people with tech. One of my ultimate dreams is to be in a rock band, with musical inspiration from DAY6.
+I aspire to make a meaningful impact in the world through technology, whether it's through innovative software solutions, contributing to open-source, or helping disabled people with tech. One of my ultimate dreams is to be in a rock band! 
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bavishya-sankaranarayanan-515400275/)
