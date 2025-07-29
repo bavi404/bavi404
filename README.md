@@ -10,7 +10,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://your-banner-image-link.com/banner.png" alt="Banner" />
+  <img src="https://in.pinterest.com/pin/332562753754673032/" alt="Banner" />
 </p>
 
 <!-- Bio Quote -->
