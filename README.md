@@ -4,7 +4,6 @@
   <img src="https://img.shields.io/badge/Node.js-20.x-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Contributors-1-blue?style=for-the-badge&logo=git" />
   <img src="https://img.shields.io/github/stars/bavi404?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/github/forks/bavi404?style=for-the-badge&logo=github" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=bavi404.bavi404&style=for-the-badge&color=blue" />
 </p>
 
