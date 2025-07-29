@@ -1,11 +1,11 @@
-<!-- Badges -->
+<!-- Unified Badge Row -->
 <p align="center">
-  <img src="https://img.shields.io/badge/status-updating-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Node.js-20.x-brightgreen?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/contributors-1-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/bavi404?style=for-the-badge" />
-  <img src="https://img.shields.io/github/forks/bavi404?style=for-the-badge" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=bavi404.bavi404&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Updating-44cc11?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Node.js-20.x-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Contributors-1-blue?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/github/stars/bavi404?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/forks/bavi404?style=for-the-badge&logo=github" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=bavi404.bavi404&style=for-the-badge&color=blue" />
 </p>
 
 <!-- Banner -->
