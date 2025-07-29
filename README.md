@@ -3,8 +3,8 @@
   <img src="https://img.shields.io/badge/status-updating-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Node.js-20.x-brightgreen?style=for-the-badge&logo=node.js" />
   <img src="https://img.shields.io/badge/contributors-1-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge" />
-  <img src="https://img.shields.io/github/forks/YOUR_GITHUB_USERNAME?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/bavi404?style=for-the-badge" />
+  <img src="https://img.shields.io/github/forks/bavi404?style=for-the-badge" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME&style=for-the-badge" />
 </p>
 
