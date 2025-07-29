@@ -1,3 +1,29 @@
+<!-- Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/status-updating-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Node.js-20.x-brightgreen?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/contributors-1-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge" />
+  <img src="https://img.shields.io/github/forks/YOUR_GITHUB_USERNAME?style=for-the-badge" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME&style=for-the-badge" />
+</p>
+
+<!-- Banner -->
+<p align="center">
+  <img src="https://your-banner-image-link.com/banner.png" alt="Banner" />
+</p>
+
+<!-- Bio Quote -->
+> I build things, break them, debug them, and make them smarter—usually in that order.  
+> Tech Twitter (not calling it X) has become my second home, dosa my fuel, and AI my playground.  
+> Catch me blending poetry into code, training models, or pushing commits well past midnight.  
+> Here to solve real problems, one creative hack at a time.
+
+<!-- Spotify Status -->
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
+</p>
+
 # Hi there, I'm Bavishya Sankaranarayanan 👋
 
 Welcome to my GitHub profile! I'm a passionate software developer and AI/ML enthusiast with a love for solving complex problems and creating impactful solutions. Here's a little more about me:
