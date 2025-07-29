@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/contributors-1-blue?style=for-the-badge" />
   <img src="https://img.shields.io/github/stars/bavi404?style=for-the-badge" />
   <img src="https://img.shields.io/github/forks/bavi404?style=for-the-badge" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME&style=for-the-badge" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=bavi404.bavi404&style=for-the-badge" />
 </p>
 
 <!-- Banner -->
