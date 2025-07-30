@@ -6,21 +6,12 @@
   <img src="https://img.shields.io/github/stars/bavi404?style=for-the-badge&logo=github" />
 </p>
 
-<!-- Banner -->
-<p align="center">
-  <img src="https://pin.it/4ryUVqF7F" alt="Banner" />
-</p>
 
 <!-- Bio Quote -->
 > I build things, break them, debug them, and make them smarter—usually in that order.  
 > Tech Twitter (not calling it X) has become my second home, dosa my fuel, and AI my playground.  
 > Catch me blending poetry into code, training models, or pushing commits well past midnight.  
 > Here to solve real problems, one creative hack at a time.
-
-<!-- Spotify Status -->
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
-</p>
 
 # Hi there, I'm Bavishya Sankaranarayanan 👋
 
