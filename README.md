@@ -8,7 +8,7 @@
 
 
 <!-- Bio Quote -->
-> I build things, break them, debug them, and make them smarter—usually in that order.  
+> I build things, break them, debug them, and make them smarter...usually in that order.  
 > Tech Twitter (not calling it X) has become my second home, dosa my fuel, and AI my playground.  
 > Catch me blending poetry into code, training models, or pushing commits well past midnight.  
 > Here to solve real problems, one creative hack at a time.
