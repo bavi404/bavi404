@@ -67,7 +67,7 @@ I aspire to make a meaningful impact in the world through technology, whether it
 
 
 - 📧 Email: sankaranarayananbavishya@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/bavishya-sankaranarayanan-515400275/overlay/background-image/
+- 💼 LinkedIn: https://www.linkedin.com/in/bavishya-sankaranarayanan-515400275/
 - 📝 Blog: Coming soon!
 
 Feel free to check out my repositories and connect with me. I'm always open to collaboration and learning from others in the community!
