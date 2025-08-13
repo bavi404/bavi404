@@ -72,11 +72,5 @@ I aspire to make a meaningful impact in the world through technology, whether it
 
 Feel free to check out my repositories and connect with me. I'm always open to collaboration and learning from others in the community!
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bavi404/bavi404/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
-
-
 
 ⭐️ Fun fact: I love the smell of new books, leather bags, and petrichor!
